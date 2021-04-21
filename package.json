@@ -1,7 +1,6 @@
 {
   "name": "multiplayer-card-project",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "nodemon server.js"
@@ -10,7 +9,17 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "nodemon": "^2.0.2",
-    "socket.io": "^2.3.0"
-  }
+    "nodemon": "^2.0.7",
+    "socket.io": "^2.4.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HoangNamDo/multiplayer-card-project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HoangNamDo/multiplayer-card-project/issues"
+  },
+  "homepage": "https://github.com/HoangNamDo/multiplayer-card-project#readme",
+  "description": ""
 }
